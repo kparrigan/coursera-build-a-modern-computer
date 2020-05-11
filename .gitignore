@@ -39,3 +39,4 @@ Thumbs.db
 
 #Project Specific
 **/tools
+*.out
